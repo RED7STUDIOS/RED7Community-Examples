@@ -1,2 +1,2 @@
-# RED7Community-APIExamples
- Some API examples for RED7Community.
+# RED7Community-Examples
+Some examples for RED7Community such as the API and more.
