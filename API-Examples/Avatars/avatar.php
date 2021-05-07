@@ -52,7 +52,9 @@ if (!str_contains($data_avatar, "Invalid Key"))
 }
 else
 {
+	// Feck your key.
 	trigger_error("[API] The current API key specified is invalid or revoked. Please use a different key.");
+	// Stop from attempting to load the rest of the page.
 	exit;
 }
 
