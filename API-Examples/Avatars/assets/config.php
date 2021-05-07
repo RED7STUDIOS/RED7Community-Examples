@@ -8,7 +8,7 @@
 */
 
 // Our API URL, the default is the RED7Community one.
-$API_URL = "https://community.cldm.ml/API";
+$API_URL = "https://api.red7community.ml";
 // The API key for that API URL.
 $API_KEY = "OpenSourceIsSuperCool";
 
